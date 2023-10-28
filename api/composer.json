@@ -1,0 +1,16 @@
+{
+    "name": "anafl/api",
+    "autoload": {
+        "psr-4": {
+            "controller\\": "src/controller",
+            "model\\": "src/model"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ana Flavia Moreira Pires",
+            "email": "flavia.pires@mail.uft.edu.br"
+        }
+    ],
+    "require": {}
+}

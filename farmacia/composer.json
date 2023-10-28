@@ -1,0 +1,16 @@
+{
+    "name": "anafl/farmacia",
+    "autoload": {
+        "psr-4": {
+            "controller\\": "src/controller",
+            "connection\\": "src/connection"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ana Flavia Moreira Pires",
+            "email": "flavia.pires@mail.uft.edu.br"
+        }
+    ],
+    "require": {}
+}
